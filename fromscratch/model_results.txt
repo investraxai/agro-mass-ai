@@ -1,0 +1,21 @@
+BIOMASS PREDICTION MODEL RESULTS
+========================================
+
+MODEL PARAMETERS:
+Slope (coefficient): 88.0783
+Intercept: 105.9516
+Equation: Biomass = 88.0783 × NDVI + 105.9516
+
+PERFORMANCE METRICS:
+Test Set:
+  R² Score: 0.6863
+  RMSE: 22.7864 tons/hectare
+  MAE: 17.8112 tons/hectare
+  MSE: 519.2194
+
+Training Set:
+  R² Score: 0.6368
+  RMSE: 23.3600 tons/hectare
+
+INTERPRETATION:
+Good model fit - explains good portion of variation
